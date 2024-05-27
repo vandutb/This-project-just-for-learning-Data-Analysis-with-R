@@ -7,6 +7,9 @@ Using R language and ggplot2 can provide valuable insights into usage patterns, 
 Below is a summary of the results achieved:
 
 ![img.png](monthly.png)
+
 ![img.png](weekly.png)
-![img.png](hour.png)
+
+![img.png](hour.png
+
 ![img.png](common_trip_from_start_to_end.png)
